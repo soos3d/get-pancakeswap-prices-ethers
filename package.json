@@ -1,0 +1,23 @@
+{
+  "name": "get-pancakeswap-prices-ethers",
+  "version": "1.0.0",
+  "description": "ethers.js program that enables users to retrieve the price of tokens from PancakeSwap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethers",
+    "ethers.js",
+    "pancakeswap",
+    "tokens",
+    "web3",
+    "blockchain"
+  ],
+  "author": "DZ",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
